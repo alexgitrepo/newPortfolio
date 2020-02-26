@@ -1,0 +1,127 @@
+@media only screen and (min-width: 1200px) {
+    .about-me {
+        max-width: 500px;
+    }
+}
+
+
+/* Medium Layout */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .carousel-indicators {
+        bottom: 90px;
+    }
+}
+
+
+/* Tablet Layout */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .caption h1 {
+        font-size: 35px;
+    }
+
+    .about-text {
+        margin: 20px 0;
+    }
+
+
+    .contact-info,
+    .video-area .accordion {
+        margin-top: 30px;
+    }
+
+    .action-area .btn {
+        margin-top: 15px;
+    }
+
+
+    .contact-form {
+        margin-bottom: 30px;
+    }
+
+}
+
+
+/* Mobile Layout */
+
+@media only screen and (max-width: 767px) {
+    body, p {
+        line-height: 25px;
+    }
+
+    .section-big {
+        padding: 50px 0px;
+    }
+
+    .section-title {
+        margin-bottom: 50px;
+    }
+
+    .section-title h2 {
+        line-height: 30px;
+    }
+
+    .intro-text {
+        padding: 0 15px;
+    }
+
+    .action-area h2,
+    .intro-text h2 {
+        font-size: 20px;
+    }
+
+    .btn, input[type='submit'] {
+        margin-bottom: 0px;
+        padding: 8px 20px;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    .about-text {
+        transform: translate(0);
+        margin-top: 35px;
+    }
+
+    .about-text-2 {
+        margin-top: 15px;
+        padding-left: 0px;
+    }
+
+    .menu-area .container {
+        box-shadow: 0 0 5px #ddd;
+        background: #fff;
+        padding: 5px 15px;
+    }
+
+    /* service area */
+    /* Portfolio area */
+    .section-title h2 {
+        font-size: 30px;
+    }
+
+    .contact-info,
+    .video-area .accordion {
+        margin-top: 30px;
+    }
+
+    .action-area .btn {
+        margin-top: 15px;
+    }
+
+    .contact-form {
+        margin-bottom: 30px;
+    }
+
+
+}
+/* Small Mobile Layout */
+
+@media only screen and (max-width: 480px) {
+    .social-links li {
+        margin-bottom: 10px;
+    }
+
+}
