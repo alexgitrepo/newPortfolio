@@ -68,8 +68,8 @@ a:not([href]) {
     font-size: 100px;
     color: white;
     position: absolute;
-    top: 200px;
-    left: 100px
+    top: 40vh;
+    left: 30vh
 }
 
 .mainmenu a:not([href]):hover {
@@ -134,8 +134,12 @@ li {
 }
 
 .section-big {
-    padding: 100px 0px;
+    padding: 120px 0px;
     border-bottom: 1px solid #ddd;
+    min-height: 100vh;
+}
+.section-big:nth-child(even) {
+    background-color:rgba(162,162,162,0.09);
 }
 
 . {
@@ -164,15 +168,6 @@ img {
     height: 100vh;
     background-size: cover;
     padding-bottom: -10px;
-}
-
-.header .header__typed input {
-    height: auto;
-    font-size: 50px;
-    background: none;
-    font-weight: bold;
-    color: blue;
-    border: none;
 }
 
 
@@ -427,10 +422,6 @@ section {
     text-align: center;
 }
 
-.contact-info {
-    margin-bottom: 30px;
-}
-
 
 /* ----------------------------------------------------------------------------------------
 *                                   13. Footer area css
@@ -487,3 +478,79 @@ section {
     background-color: #fff;
     color: #777;
 }
+
+
+@media only screen and (min-width: 1200px) {
+    .about-me {
+        max-width: 500px;
+    }
+}
+
+/* Tablet Layout */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .relative {
+        font-weight: 500;
+        font-size: 60px;
+
+    }
+}
+
+
+/* Mobile Layout */
+
+@media only screen and (max-width: 767px) {
+    body, p {
+        line-height: 25px;
+    }
+
+    .section-big {
+        padding: 50px 0px;
+    }
+
+    .section-title {
+        margin-bottom: 50px;
+    }
+
+    .section-title h2 {
+        line-height: 30px;
+    }
+
+    .btn, input[type='submit'] {
+        margin-bottom: 0px;
+        padding: 8px 20px;
+    }
+
+
+    img {
+        max-width: 100%;
+    }
+
+    .relative {
+        font-weight: 500;
+        font-size: 40px;
+        left: 10vh;
+    }
+
+
+}
+
+/* Small Mobile Layout */
+
+@media only screen and (max-width: 480px) {
+    .relative {
+        font-weight: 500;
+        font-size: 25px;
+        left: 10vh;
+    }
+
+    a:not([href]) {
+        color: white;
+        font-size: 12px;
+    }
+
+    .header__navigation-item {
+        margin: 25px 8px;
+    }
+}
+

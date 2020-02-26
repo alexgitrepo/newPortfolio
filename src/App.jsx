@@ -26,11 +26,10 @@ class App extends React.Component{
         }); // $(window).on('scroll' end
 
     }
-
     render(){ return (
         <div className="App">
             <div className="header" id='home'>
-                <div className="header__container">
+                                <div className="header__container">
                     <div className="mainmenu">
                         <ul className="navigation">
                             <li className="header__navigation-item"><Link
@@ -98,7 +97,7 @@ class App extends React.Component{
                     <div className="typed">
                         <Typed className="typed relative"
                                startDelay={1000}
-                               strings={['Frontend-developer','Shibaev Alexander']}
+                               strings={['Frontend-developer.','Shibaev Alexander.']}
                                typeSpeed={80}
                                backSpeed={50}
                                loop
@@ -109,6 +108,7 @@ class App extends React.Component{
             </div>
 
             <section id="about" className="about-area section-big">
+                <Fade left>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12 text-center">
@@ -151,12 +151,14 @@ class App extends React.Component{
                         </div>
                     </div>
                 </div>
+                </Fade>
             </section>
             {/*About area ends */}
 
 
             {/*Service area starts */}
             <section id="service" className="service-area section-big">
+                <Fade right>
                 <div className="container">
 
                     <div className="row">
@@ -211,12 +213,14 @@ class App extends React.Component{
                         </div>
                     </div>
                 </div>
+                </Fade>
             </section>
             {/*Service area ends */}
 
 
             {/*Work area starts */}
             <section id="work" className="works section-big">
+                <Fade left>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12 text-center">
@@ -311,11 +315,13 @@ class App extends React.Component{
                         </div>
                     </div>
                 </div>
+                </Fade>
             </section>
             {/*Work area ends */}
 
             {/*Contact area starts */}
             <section id="contact" className="contact-area section-big">
+                <Fade right>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12 text-center">
@@ -359,6 +365,7 @@ class App extends React.Component{
                     </div>
 
                 </div>
+                </Fade>
             </section>
             {/*Contact area ends */}
 
