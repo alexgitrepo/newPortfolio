@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c17343d5f6e52037f5abe422d7ac3676",
+    "revision": "fa0ab770820366fc6f2061317ce2a98c",
     "url": "/newPortfolio/index.html"
   },
   {
-    "revision": "204e18bbd538d5ffbb3a",
+    "revision": "f507b33c9c3aa30ae7e0",
     "url": "/newPortfolio/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "98c780e1d099b68fe48a",
-    "url": "/newPortfolio/static/css/main.e4ed3ece.chunk.css"
+    "revision": "ee8f5287bdbabe6863d3",
+    "url": "/newPortfolio/static/css/main.7626a5d1.chunk.css"
   },
   {
-    "revision": "204e18bbd538d5ffbb3a",
-    "url": "/newPortfolio/static/js/2.da9acde4.chunk.js"
+    "revision": "f507b33c9c3aa30ae7e0",
+    "url": "/newPortfolio/static/js/2.7f8dc5ce.chunk.js"
   },
   {
-    "revision": "bad082d971802b3ced0f7c00f8b04f36",
-    "url": "/newPortfolio/static/js/2.da9acde4.chunk.js.LICENSE.txt"
+    "revision": "d791c2a0fc2c67da79c79ab11ee9d92d",
+    "url": "/newPortfolio/static/js/2.7f8dc5ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98c780e1d099b68fe48a",
-    "url": "/newPortfolio/static/js/main.5acaeced.chunk.js"
+    "revision": "ee8f5287bdbabe6863d3",
+    "url": "/newPortfolio/static/js/main.a2b0deaa.chunk.js"
   },
   {
     "revision": "158a78f630394ea0540e",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newPortfolio/static/media/axios.5b4197e9.2b463361.svg"
   },
   {
+    "revision": "6c8c5ec0cc9d01f24b7509ab9e1813cc",
+    "url": "/newPortfolio/static/media/black-back-closed-envelope-shape.6c8c5ec0.svg"
+  },
+  {
     "revision": "427506926a77b9a44ac31bbed8b3034c",
     "url": "/newPortfolio/static/media/css.0af690f7.42750692.svg"
   },
@@ -72,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newPortfolio/static/media/javascript.6f32e301.12e3b1e0.svg"
   },
   {
+    "revision": "6871ca60345fee67347b777136ba9ce6",
+    "url": "/newPortfolio/static/media/male-user-shadow.6871ca60.svg"
+  },
+  {
     "revision": "d45cd4b8cd7b88fd0976ddb5466d908d",
     "url": "/newPortfolio/static/media/reactIcon.633579c4.d45cd4b8.svg"
   },
@@ -82,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a568ce66ce1f02d04f5062f43281ded7",
     "url": "/newPortfolio/static/media/slide-bg-1.a568ce66.jpg"
+  },
+  {
+    "revision": "1fdabe1ef6e77111d157431c851e2727",
+    "url": "/newPortfolio/static/media/telegram-logo.1fdabe1e.svg"
   },
   {
     "revision": "9bd9c52659433f6ec9c2e0cb7a62037a",
