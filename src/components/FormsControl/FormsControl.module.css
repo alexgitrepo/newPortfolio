@@ -1,0 +1,22 @@
+
+.formControl {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.formControl input {
+    width: 100%;
+}
+
+.formControl.error input,
+/*.formControl.error textarea{*/
+/*        border-bottom: 1px solid red;*/
+/*    transition:0.4s;*/
+/*    }*/
+.formControl.error span{
+    transition:0.4s;
+    color:inherit;
+}
+.summaryError{
+    border:red solid 1px
+}

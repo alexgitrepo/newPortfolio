@@ -56,9 +56,12 @@ p {
 a:not([href]) {
     color: white;
     font-size: 17px;
+    text-shadow: 2px 2px black;
+
 }
 
 .mainmenu.sticky-menu a:not([href]) {
+    text-shadow: none;
     color: black;
 }
 
@@ -75,15 +78,16 @@ a:not([href]) {
 .mainmenu a:not([href]):hover {
     color: white;
     text-decoration: none;
-    font-weight: bold;
+    /*font-weight: bold;*/
     cursor: pointer;
+    text-shadow: 1px 0 0 currentColor
 }
 
 
 .mainmenu.sticky-menu a:not([href]):hover {
     color: #777;
     text-decoration: none;
-    font-weight: bold;
+    text-shadow: 1px 0 0 currentColor;
     cursor: pointer;
 }
 
@@ -128,6 +132,11 @@ li {
     -webkit-transition: 0.3s;
 }
 
+.btn.success {
+    background-color: lightgreen;
+}
+
+
 .btn:hover, input[type="submit"]:hover {
     color: #fff;
     background: #777;
@@ -138,8 +147,13 @@ li {
     border-bottom: 1px solid #ddd;
     min-height: 100vh;
 }
+
+.section-big:last-of-type {
+    min-height: auto;
+}
+
 .section-big:nth-child(even) {
-    background-color:rgba(162,162,162,0.09);
+    background-color: rgba(162, 162, 162, 0.09);
 }
 
 . {
@@ -242,6 +256,11 @@ section {
     background: #777;
     z-index: -1;
     transition: 0.2s ease-out;
+
+}
+
+.service-box img {
+    height: 50px;
 
 }
 
@@ -382,15 +401,24 @@ section {
 }
 
 .in_name:before {
-    content: '\f007';
+    content: '';
+    background-image: url("../src/assets/img/svg/male-user-shadow.svg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .in_email:before {
-    content: '\f1d8';
+    content: '';
+    background-image: url("../src/assets/img/svg/telegram-logo.svg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .in_message:before {
-    content: '\f0e0';
+    content: '';
+    background-image: url("../src/assets/img/svg/black-back-closed-envelope-shape.svg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .contact-form textarea#message {
@@ -456,22 +484,27 @@ section {
 }
 
 .social-ul {
+    display: flex;
+    justify-content: center;
     margin: 0;
     padding: 0;
     list-style: none;
     text-align: center;
+
 }
 
 .social-ul li {
-    display: inline-block;
-    float: none;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    background-color: hsla(0, 0%, 100%, .1);
+    margin-right: 10px;
 }
 
-.social-ul li span {
-    font-size: 25px;
-    margin: 0 10px;
-    color: #fff;
-    border-radius: 50px;
+.social-ul img {
+    width: 80%
 }
 
 .social-ul li a span:hover {
@@ -546,7 +579,12 @@ section {
 
     a:not([href]) {
         color: white;
-        font-size: 12px;
+        font-size: 14px;
+
+    }
+
+    .navigation {
+        padding-left: 10px;
     }
 
     .header__navigation-item {
