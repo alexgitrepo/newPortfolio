@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f33057bdb4b8f7aea5d1b1bbafa5c68",
+    "revision": "1641fb35f3443ef46f2c654cca337e81",
     "url": "/newPortfolio/index.html"
   },
   {
-    "revision": "3ba732288c19dfa4945e",
+    "revision": "1ab88fdfccbb1677c1aa",
     "url": "/newPortfolio/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "7af865f90ec5d05d5167",
-    "url": "/newPortfolio/static/css/main.9daafad4.chunk.css"
+    "revision": "12ff03784eecd527e8e4",
+    "url": "/newPortfolio/static/css/main.40360eeb.chunk.css"
   },
   {
-    "revision": "3ba732288c19dfa4945e",
-    "url": "/newPortfolio/static/js/2.02f08708.chunk.js"
+    "revision": "1ab88fdfccbb1677c1aa",
+    "url": "/newPortfolio/static/js/2.91fabed8.chunk.js"
   },
   {
     "revision": "d791c2a0fc2c67da79c79ab11ee9d92d",
-    "url": "/newPortfolio/static/js/2.02f08708.chunk.js.LICENSE.txt"
+    "url": "/newPortfolio/static/js/2.91fabed8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7af865f90ec5d05d5167",
-    "url": "/newPortfolio/static/js/main.ca9d4a1f.chunk.js"
+    "revision": "12ff03784eecd527e8e4",
+    "url": "/newPortfolio/static/js/main.78fce25f.chunk.js"
   },
   {
     "revision": "158a78f630394ea0540e",
@@ -68,12 +68,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newPortfolio/static/media/github.144406db.e2cd0189.svg"
   },
   {
+    "revision": "f3b8ed41a580b0a8e2969f6d8795d3a7",
+    "url": "/newPortfolio/static/media/githubcontact.f3b8ed41.f3b8ed41.svg"
+  },
+  {
     "revision": "bb813cbdba07d62f92d4ba8903f0ee34",
     "url": "/newPortfolio/static/media/html.db258945.bb813cbd.svg"
   },
   {
     "revision": "12e3b1e085b408d6ecc318cb615dce90",
     "url": "/newPortfolio/static/media/javascript.6f32e301.12e3b1e0.svg"
+  },
+  {
+    "revision": "2e070ff9be6dc4c1d29956e9df98a7e4",
+    "url": "/newPortfolio/static/media/linkedin.2e070ff9.2e070ff9.svg"
   },
   {
     "revision": "6871ca60345fee67347b777136ba9ce6",
@@ -96,7 +104,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newPortfolio/static/media/telegram-logo.1fdabe1e.svg"
   },
   {
+    "revision": "55a6e905997ee5bd7fd58acf4ed363f2",
+    "url": "/newPortfolio/static/media/telegram.55a6e905.55a6e905.svg"
+  },
+  {
     "revision": "9bd9c52659433f6ec9c2e0cb7a62037a",
     "url": "/newPortfolio/static/media/typescript.a6e0504b.9bd9c526.svg"
+  },
+  {
+    "revision": "15147374fc64d4f4079213b4fbdd0f30",
+    "url": "/newPortfolio/static/media/viber.209ef270.15147374.svg"
   }
 ]);
