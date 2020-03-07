@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/newPortfolio/static/css/main.03a0efc6.chunk.css",
-    "main.js": "/newPortfolio/static/js/main.275b2875.chunk.js",
-    "main.js.map": "/newPortfolio/static/js/main.275b2875.chunk.js.map",
+    "main.js": "/newPortfolio/static/js/main.f0b6093c.chunk.js",
+    "main.js.map": "/newPortfolio/static/js/main.f0b6093c.chunk.js.map",
     "runtime-main.js": "/newPortfolio/static/js/runtime-main.c01991e4.js",
     "runtime-main.js.map": "/newPortfolio/static/js/runtime-main.c01991e4.js.map",
     "static/css/2.47e06e2e.chunk.css": "/newPortfolio/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.99673819.chunk.js": "/newPortfolio/static/js/2.99673819.chunk.js",
-    "static/js/2.99673819.chunk.js.map": "/newPortfolio/static/js/2.99673819.chunk.js.map",
+    "static/js/2.df1b64da.chunk.js": "/newPortfolio/static/js/2.df1b64da.chunk.js",
+    "static/js/2.df1b64da.chunk.js.map": "/newPortfolio/static/js/2.df1b64da.chunk.js.map",
     "index.html": "/newPortfolio/index.html",
-    "precache-manifest.d5b344d2290eea2386f2c27948935481.js": "/newPortfolio/precache-manifest.d5b344d2290eea2386f2c27948935481.js",
+    "precache-manifest.64767857b07a23d3fdf82c3dd4f2399c.js": "/newPortfolio/precache-manifest.64767857b07a23d3fdf82c3dd4f2399c.js",
     "service-worker.js": "/newPortfolio/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/newPortfolio/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.03a0efc6.chunk.css.map": "/newPortfolio/static/css/main.03a0efc6.chunk.css.map",
-    "static/js/2.99673819.chunk.js.LICENSE.txt": "/newPortfolio/static/js/2.99673819.chunk.js.LICENSE.txt",
-    "static/media/2.jpg": "/newPortfolio/static/media/2.682dc930.jpg",
-    "static/media/3.jpg": "/newPortfolio/static/media/3.76dba9f7.jpg",
-    "static/media/4.jpg": "/newPortfolio/static/media/4.98208398.jpg",
-    "static/media/5.jpg": "/newPortfolio/static/media/5.3bcf890b.jpg",
-    "static/media/6.jpg": "/newPortfolio/static/media/6.ccff8a1c.jpg",
+    "static/js/2.df1b64da.chunk.js.LICENSE.txt": "/newPortfolio/static/js/2.df1b64da.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/newPortfolio/static/media/1.f50f1b88.jpg",
+    "static/media/2.jpg": "/newPortfolio/static/media/2.7f52910e.jpg",
+    "static/media/3.jpg": "/newPortfolio/static/media/3.06800482.jpg",
+    "static/media/4.jpg": "/newPortfolio/static/media/4.a7cc22ce.jpg",
     "static/media/about.jpg": "/newPortfolio/static/media/about.f269f094.jpg",
     "static/media/axios.5b4197e9.svg": "/newPortfolio/static/media/axios.5b4197e9.2b463361.svg",
     "static/media/style.css": "/newPortfolio/static/media/telegram-logo.1fdabe1e.svg",
@@ -37,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.c01991e4.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.99673819.chunk.js",
+    "static/js/2.df1b64da.chunk.js",
     "static/css/main.03a0efc6.chunk.css",
-    "static/js/main.275b2875.chunk.js"
+    "static/js/main.f0b6093c.chunk.js"
   ]
 }
