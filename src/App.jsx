@@ -10,7 +10,6 @@ import Work from "./components/Work";
 import Contacts from "./components/Contacts";
 import Footer from "./components/Footer";
 
-
 class App extends React.Component {
     componentDidMount() {
         $(window).on('scroll', function () {
@@ -20,8 +19,7 @@ class App extends React.Component {
             } else {
                 menu_area.removeClass('sticky-menu');
             }
-        }); // $(window).on('scroll' end
-
+        });
     }
     render() {
         return (
