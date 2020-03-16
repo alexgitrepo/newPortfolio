@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11c3e5e4239e89f362b377673eaae91c",
+    "revision": "352476154db0303852042830f706f8bd",
     "url": "/newPortfolio/index.html"
   },
   {
-    "revision": "080edc1ccf2a5ea35fae",
+    "revision": "5c88e1e6a3c23ebd2cff",
     "url": "/newPortfolio/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "8e9d8555622f4c531487",
+    "revision": "0ed405bf25f085a007b6",
     "url": "/newPortfolio/static/css/main.c76aaf8c.chunk.css"
   },
   {
-    "revision": "080edc1ccf2a5ea35fae",
-    "url": "/newPortfolio/static/js/2.df1b64da.chunk.js"
+    "revision": "5c88e1e6a3c23ebd2cff",
+    "url": "/newPortfolio/static/js/2.fbfea797.chunk.js"
   },
   {
     "revision": "d791c2a0fc2c67da79c79ab11ee9d92d",
-    "url": "/newPortfolio/static/js/2.df1b64da.chunk.js.LICENSE.txt"
+    "url": "/newPortfolio/static/js/2.fbfea797.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e9d8555622f4c531487",
-    "url": "/newPortfolio/static/js/main.f6a577b3.chunk.js"
+    "revision": "0ed405bf25f085a007b6",
+    "url": "/newPortfolio/static/js/main.429a09ff.chunk.js"
   },
   {
     "revision": "158a78f630394ea0540e",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a7cc22ce56f5fb6dbd8bb5f690da45b4",
     "url": "/newPortfolio/static/media/4.a7cc22ce.jpg"
+  },
+  {
+    "revision": "d9cdb938707b14d1fca05ec30710b063",
+    "url": "/newPortfolio/static/media/5.d9cdb938.jpg"
   },
   {
     "revision": "44e32edda4801e9b3877c408891baa01",
@@ -100,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newPortfolio/static/media/telegram-logo.1fdabe1e.svg"
   },
   {
-    "revision": "55a6e905997ee5bd7fd58acf4ed363f2",
-    "url": "/newPortfolio/static/media/telegram.55a6e905.55a6e905.svg"
+    "revision": "685f04cf58c105acbbbd6cd5826867e4",
+    "url": "/newPortfolio/static/media/telegram.55a6e905.685f04cf.svg"
   },
   {
     "revision": "9bd9c52659433f6ec9c2e0cb7a62037a",
