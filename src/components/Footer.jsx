@@ -8,12 +8,12 @@ import viber from "../../src/assets/img/svg/viber.209ef270.svg"
 import gitHub from "../../src/assets/img/svg/githubcontact.f3b8ed41.svg"
 
 
-const Footer = () => {
+const Footer = ({footerTextContent}) => {
     return <footer className="footer-area">
         <div className="container">
             <div className="address">
                 <div className="address-box clearfix">
-                    <p>Prem, Russia</p>
+                    <p>{footerTextContent.address}</p>
                 </div>
                 <div className="address-box clearfix">
                     <p><a href="mailto:alex.dev4web@gmail.com">alex.dev4web@gmail.com</a></p>
@@ -26,7 +26,7 @@ const Footer = () => {
                 <li><a target="_blank"  rel="noopener noreferrer" href="https://github.com/alexgitrepo"><img src={gitHub} alt="gitHub"/></a></li>
 
             </ul>
-            <p className="copyright">&copy; 2020 Copyright Shibaev Alex</p>
+            <p className="copyright">&copy; {footerTextContent.copyright}</p>
 
         </div>
     </footer>
