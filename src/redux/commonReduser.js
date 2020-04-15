@@ -261,7 +261,7 @@ const russianState = {
 
                 },
                 {
-                    img: workItem4, projectTitle: "Счетцик",
+                    img: workItem4, projectTitle: "Счетчик",
                     projectDescription: <React.Fragment><h6>Технологии для фронтенда :</h6><span>HTML, CSS, Javascript,react,redux,react-redux и.т.д.</span>
                     </React.Fragment>,
                     link: 'https://alexgitrepo.github.io/counter/',

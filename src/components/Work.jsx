@@ -28,11 +28,11 @@ const Work = ({workTextContent}) => {
         </section>
     )
 }
-const WorkItem = ({img, projectTitle, projectDescription, link,linkText}) => {
+const WorkItem = ({img, projectTitle, projectDescription, link, linkText}) => {
     return (
         <div className="col-md-4 col-sm-6 ">
             <div className="projectItem" style={{backgroundImage: `url(${img})`}}>
-                <a href={link} className="projectLink">
+                <a target="_blank" rel="noopener noreferrer" href={link} className="projectLink">
                     {linkText}
                 </a>
                 <div className="projectDescr">
