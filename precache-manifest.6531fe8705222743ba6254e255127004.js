@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a9164b844eca9c68ac6ccf107565808",
+    "revision": "55900b1e969801be22e7b01cb37c8d89",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5c88e1e6a3c23ebd2cff",
+    "revision": "6e57f759c633b9517730",
     "url": "/portfolio/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "679b444664378ca7920a",
-    "url": "/portfolio/static/css/main.d299bb24.chunk.css"
+    "revision": "7a37daaf2ef9890491db",
+    "url": "/portfolio/static/css/main.4a2437ee.chunk.css"
   },
   {
-    "revision": "5c88e1e6a3c23ebd2cff",
-    "url": "/portfolio/static/js/2.fbfea797.chunk.js"
+    "revision": "6e57f759c633b9517730",
+    "url": "/portfolio/static/js/2.1619ca2d.chunk.js"
   },
   {
     "revision": "d791c2a0fc2c67da79c79ab11ee9d92d",
-    "url": "/portfolio/static/js/2.fbfea797.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.1619ca2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "679b444664378ca7920a",
-    "url": "/portfolio/static/js/main.d37d82d2.chunk.js"
+    "revision": "7a37daaf2ef9890491db",
+    "url": "/portfolio/static/js/main.b8cd436c.chunk.js"
   },
   {
     "revision": "231cb3f92146252e75f2",
@@ -96,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/redux.17af9974.07c89df8.svg"
   },
   {
+    "revision": "6e8cc30d0459394d1b354fe292913564",
+    "url": "/portfolio/static/media/russia.6e8cc30d.svg"
+  },
+  {
     "revision": "a568ce66ce1f02d04f5062f43281ded7",
     "url": "/portfolio/static/media/slide-bg-1.a568ce66.jpg"
   },
@@ -110,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9bd9c52659433f6ec9c2e0cb7a62037a",
     "url": "/portfolio/static/media/typescript.a6e0504b.9bd9c526.svg"
+  },
+  {
+    "revision": "e5564902e2642c5e6e2e98e68a7d41f5",
+    "url": "/portfolio/static/media/uk.e5564902.svg"
   },
   {
     "revision": "15147374fc64d4f4079213b4fbdd0f30",
