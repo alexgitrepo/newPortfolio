@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ec2dd45d.chunk.css",
-    "main.js": "/portfolio/static/js/main.ae124aa7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ae124aa7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.86abd2ac.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.86abd2ac.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.7a8644fa.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.7a8644fa.js.map",
     "static/css/2.47e06e2e.chunk.css": "/portfolio/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.cc2b979e.chunk.js": "/portfolio/static/js/2.cc2b979e.chunk.js",
-    "static/js/2.cc2b979e.chunk.js.map": "/portfolio/static/js/2.cc2b979e.chunk.js.map",
+    "static/js/2.0e8bdb46.chunk.js": "/portfolio/static/js/2.0e8bdb46.chunk.js",
+    "static/js/2.0e8bdb46.chunk.js.map": "/portfolio/static/js/2.0e8bdb46.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.b9ce03805303d337df7abe9236367b01.js": "/portfolio/precache-manifest.b9ce03805303d337df7abe9236367b01.js",
+    "precache-manifest.f585a1dedec503bf1ece56fc0b8f804a.js": "/portfolio/precache-manifest.f585a1dedec503bf1ece56fc0b8f804a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/portfolio/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.ec2dd45d.chunk.css.map": "/portfolio/static/css/main.ec2dd45d.chunk.css.map",
-    "static/js/2.cc2b979e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cc2b979e.chunk.js.LICENSE.txt",
+    "static/js/2.0e8bdb46.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0e8bdb46.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/portfolio/static/media/1.f50f1b88.jpg",
     "static/media/2.jpg": "/portfolio/static/media/2.7f52910e.jpg",
     "static/media/3.jpg": "/portfolio/static/media/3.06800482.jpg",
     "static/media/4.jpg": "/portfolio/static/media/4.a7cc22ce.jpg",
     "static/media/5.jpg": "/portfolio/static/media/5.d9cdb938.jpg",
     "static/media/about3.jpg": "/portfolio/static/media/about3.44e32edd.jpg",
+    "static/media/angular-icon-1.svg": "/portfolio/static/media/angular-icon-1.4e40ac95.svg",
     "static/media/axios.5b4197e9.svg": "/portfolio/static/media/axios.5b4197e9.2b463361.svg",
     "static/media/style.css": "/portfolio/static/media/telegram-logo.1fdabe1e.svg",
     "static/media/css.0af690f7.svg": "/portfolio/static/media/css.0af690f7.42750692.svg",
@@ -39,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.7a8644fa.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.cc2b979e.chunk.js",
+    "static/js/2.0e8bdb46.chunk.js",
     "static/css/main.ec2dd45d.chunk.css",
-    "static/js/main.ae124aa7.chunk.js"
+    "static/js/main.86abd2ac.chunk.js"
   ]
 }
